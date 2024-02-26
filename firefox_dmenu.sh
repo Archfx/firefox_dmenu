@@ -21,4 +21,4 @@ fi
 }
 
 
-dmenu -p "Run"  < /dev/null | launch_firefox_profiles
+dmenu -p  < /dev/null | launch_firefox_profiles
